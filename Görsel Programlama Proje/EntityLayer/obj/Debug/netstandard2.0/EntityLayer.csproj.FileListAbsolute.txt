@@ -1,0 +1,95 @@
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\Hastane Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb

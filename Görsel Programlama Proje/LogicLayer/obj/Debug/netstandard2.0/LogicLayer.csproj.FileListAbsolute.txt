@@ -1,0 +1,145 @@
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\Hastane Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.deps.json
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\LogicLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.AssemblyInfo.cs
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.csproj.CopyComplete
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\LogicLayer\obj\Debug\netstandard2.0\LogicLayer.pdb

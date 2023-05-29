@@ -1,0 +1,757 @@
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\Hastane Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\erdem\Downloads\Hastane Proje - Kopya\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\proje 15 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\proje17 ocak\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\proje18 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Grafikler.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Grafikler.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\User\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PoliklinikIslemleri.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Grafikler.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PoliklinikIslemleri.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\21 Ocak projer\proje20 Ocak\proje17 ocak akşam\proje17 ocak akşam\Hastane Proje - Kopya 15 ocak\Hastane Proje - Kopya\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DataAccessLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\EntityLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\itextsharp.pdfa.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\LogicLayer.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DataAccessLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\EntityLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\LogicLayer.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.AcilisEkrani.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorEkrani.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGirisYap.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.GirisEkrani.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Grafikler.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGoruntuleme.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Kullanicilar.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.PoliklinikIslemleri.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuKayitlari.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.RandevuOlustur.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterEkranı.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.SekreterGirisYap.resources
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyonu.mdf
+C:\Users\erdem\Desktop\Görsel Programlama Proje\HastaneOtomasyon\bin\Debug\HastaneOtomasyonu_log.ldf
